@@ -1,0 +1,5 @@
+MAIN_URL = https://gps.vrplus.ru
+LOGIN = user
+PASSWORD = password
+SLEEP_TIME = 30
+SESSION_TIMEOUT = 15
